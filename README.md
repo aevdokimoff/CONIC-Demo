@@ -4,6 +4,7 @@ Welcome to the **CONIC Gesture Recognition Library** demo, designed to revolutio
 
 [View Demo Video](https://imgur.com/xZ8YqmN)
 
+
 ---
 
 ## Key Features
@@ -18,7 +19,7 @@ CONIC is currently optimized for **Oculus Quest AR/VR headsets**, ensuring smoot
 One of the standout features of CONIC is its **custom gesture training** capability. Users can create and train their own unique gestures, adding these personalized interactions to their products. This feature allows full customization, giving developers flexibility to implement gestures that are tailored to their application needs.
 
 ### 📚 Access to a Dynamic Gesture Library
-Additionally, CONIC provides access to an extensive **library of over 200+ dynamic gestures**. This library covers a wide range of pre-built gestures that can be immediately integrated into your Unity project, reducing development time and giving you a head start on interaction design. In teh Demo, we have just enabled 3, but we are glad to let you try this if you contact us at [david.ceepeda@tum.de](mailto:david.ceepeda@tum.de).
+Additionally, CONIC provides access to an extensive **library of over 200+ dynamic gestures**. This library covers a wide range of pre-built gestures that can be immediately integrated into your Unity project, reducing development time and giving you a head start on interaction design. In the Demo, we have just enabled 3, but we are glad to let you try this if you contact us at [david.ceepeda@tum.de](mailto:david.ceepeda@tum.de).
 
 ---
 
