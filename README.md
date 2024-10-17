@@ -4,7 +4,7 @@ Welcome to the **CONIC Gesture Recognition Library** demo, designed to revolutio
 
 [View Demo Video](https://imgur.com/xZ8YqmN)
 
-
+<p align="center" style="padding: 20px;"><img src="https://i.imgur.com/9HgONzW.png" width="60%"></p>
 ---
 
 ## Key Features
