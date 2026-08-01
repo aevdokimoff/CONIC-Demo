@@ -2,9 +2,8 @@
 
 Welcome to the **CONIC Gesture Recognition Library** demo, designed to revolutionize hand gesture interaction in AR/VR environments. This library empowers developers using Unity to integrate dynamic hand gestures into their projects, enabling more natural, intuitive user experiences.
 
-[View Demo Video](https://imgur.com/xZ8YqmN)
+<img width="404" height="269" alt="Screenshot 2026-08-01 at 22 59 49" src="https://github.com/user-attachments/assets/66af2683-f3d4-48c2-b8e8-7db2c1bbaf31" />
 
-<p align="center" style="padding: 20px;"><img src="https://i.imgur.com/9HgONzW.png" width="60%"></p>
 ---
 
 ## Key Features
